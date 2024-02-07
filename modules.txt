@@ -1,0 +1,6 @@
+Academic Calender        --DONE
+Time Table > Division    --DONE
+Notes                    
+Attendance
+Circular
+Result > Division > Term
